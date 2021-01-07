@@ -18,3 +18,5 @@ if __name__ == '__main__':
 
 msg="helloworld"
 print(msg)
+msg="initialproject"
+print(msg)
