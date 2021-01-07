@@ -10,7 +10,7 @@ def print_hi(name):
     print("Hi, {0}".format(name))  # Press ⌘F8 to toggle the breakpoint.
     print "hello"
     print "whoareyou1998"
-
+    print "test"
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
