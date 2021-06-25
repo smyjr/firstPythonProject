@@ -30,7 +30,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -71,6 +71,7 @@
       <workItem from="1610025108606" duration="971000" />
       <workItem from="1610026131457" duration="62000" />
       <workItem from="1610026201065" duration="473000" />
+      <workItem from="1624618640580" duration="84000" />
     </task>
     <task id="LOCAL-00001" summary="0.1 version">
       <created>1610010856378</created>
